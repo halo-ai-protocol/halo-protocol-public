@@ -14,7 +14,7 @@
 
 Every AI conversation you have today starts at zero.
 
-Every session is amnesiac. Every model — regardless of capability — has no idea who you are, what you've built, what you've decided, or what belongs to you intellectually.
+Every session is amnesic. Every model — regardless of capability — has no idea who you are, what you've built, what you've decided, or what belongs to you intellectually.
 
 **HALO is the protocol layer that ends that.**
 
