@@ -38,7 +38,7 @@ HALO gives every human a persistent, attributable, and growing knowledge identit
 
 ## Why This Matters
 
-The internet has transport. It has addressing. It has identity (barely). It has rendering.
+The internet has transport (HTTP). It has addressing (DNS). It has identity (barely). It has rendering (HTML, CSS, JS).
 
 What it has never had is a **persistent, attributable human knowledge layer for AI.**
 
