@@ -2,7 +2,7 @@
 
 **Human Attribution Layer & Orchestration**
 
-> *Human Attribution Layer & Orchestication. The protocol for persistent, attributable knowledge across all AI engagements. — Infrastructure for Human Potential.*
+> *Human Attribution Layer & Orchestration. The protocol for persistent, attributable knowledge across all AI engagements. — Infrastructure for Human Potential.*
 
 **Status**: 🔵 Pre-Release — Something significant is coming.
 **Conceived**: March 11, 2026
@@ -76,7 +76,9 @@ The first production deployments are already live.
 > *"Content without context is just data. Data without context is just noise."*
 > — Thomas S. Butler, 2017
 
-We started building Firesite to kill WordPress. We ended up inventing the persistent human knowledge layer for AI. Now we're going back to finish what we started — and this time the foundation is already there.
+Firesite began as an AI-powered CMS and developer toolset — a modern alternative to the bloated, legacy platforms that still dominate the web. Built on JavaScript, Node.js, and Firebase, the goal was simple: rapid application development with a powerful, extensible foundation that adapts to developers, not the other way around.
+
+Building that required solving context. Solving context led to attribution. Attribution at scale became a protocol. That protocol is HALO.
 
 Read more: **[halo.firesite.ai](https://halo.firesite.ai)**
 
