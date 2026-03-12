@@ -64,7 +64,7 @@ The full HALO Protocol specification and reference implementation will be releas
 
 The reference implementation runs on Firebase/GCP. Platform equivalence maps for AWS, MongoDB, and others are part of the release.
 
-The first production deployments are already live.
+The first production deployments are already live and dog fooding.
 
 **[halo.firesite.ai](https://halo.firesite.ai)** — Protocol home
 **[github.com/halo-ai-protocol](https://github.com/halo-ai-protocol)** — Organization
